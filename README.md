@@ -1,0 +1,1 @@
+This is my first game using Unity to build a game by simulating flappy bird. But I replace the bird with a panda and pipes with bamboo. User can make the panda move forward by right arrow, move backward by left arrow and make the panda flap by hitting space button.
